@@ -1,0 +1,35 @@
+2
+abcdef
+chfeechi
+h
+test case1:
+A: {abcdef}
+B: {cefhi}
+A+B: {abcdefhi}
+A*B: {cef}
+A-B: {abd}
+B-A: {hi}
+A does not contain B
+B does not contain A
+'h' is not in A
+'h' is in B
+
+3abf4ec
+43
+g
+test case2:
+A: {34abcef}
+B: {34}
+A+B: {34abcef}
+A*B: {34}
+A-B: {abcef}
+B-A: {}
+A contains B
+B does not contain A
+'g' is not in A
+'g' is not in B
+
+
+--------------------------------
+Process exited after 7.34 seconds with return value 0
+請按任意鍵繼續 . . .
