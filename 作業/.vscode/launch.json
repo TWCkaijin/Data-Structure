@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/OneDrive/桌面/Data Structure/作業/HW3_promise",
-      "program": "e:/OneDrive/桌面/Data Structure/作業/HW3_promise/build/Debug/outDebug",
+      "cwd": "c:/Users/Kaijin/OneDrive/桌面/Data Structure/作業/HW3_promise",
+      "program": "c:/Users/Kaijin/OneDrive/桌面/Data Structure/作業/HW3_promise/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
