@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Kaijin/OneDrive/桌面/Data Structure/CPE/二顆星/1644.PrimeGap",
+      "program": "c:/Users/Kaijin/OneDrive/桌面/Data Structure/CPE/二顆星/1644.PrimeGap/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
