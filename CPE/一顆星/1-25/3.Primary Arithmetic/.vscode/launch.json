@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Kaijin/OneDrive/桌面/Data Structure/作業/HW3_promise",
-      "program": "c:/Users/Kaijin/OneDrive/桌面/Data Structure/作業/HW3_promise/build/Debug/outDebug",
+      "cwd": "e:/OneDrive/桌面/CPE/一顆星/Primary Arithmetic",
+      "program": "e:/OneDrive/桌面/CPE/一顆星/Primary Arithmetic/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
